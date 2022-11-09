@@ -1,1 +1,2 @@
-je marque autre chose
+Initialisation du projet README.
+
